@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(54, 104, 104);
+}
+.main{
+    text-decoration: solid;
+    font-size: 20px;
+}
+.main p{
+    text-align: center;
+    text-decoration: underline;
+}

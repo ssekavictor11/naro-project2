@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #2575c5;
+}
+.about{
+    background-color: rgb(231, 231, 19);
+    text-decoration: none;
+    
+}
+.about li{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.projects{
+    justify-content: space-between;
+    background-color: black;
+    display: flex;
+    padding: 0 100px;
+    margin: 0;
+    font-size: 30px;
+
+
+}
